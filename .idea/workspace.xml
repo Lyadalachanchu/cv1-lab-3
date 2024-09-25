@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="807feb23-7835-47e2-8d0a-af93920c3b3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cv1-lab-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cv1-lab-3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +56,7 @@
       <workItem from="1727176783937" duration="137000" />
       <workItem from="1727176939519" duration="178000" />
       <workItem from="1727177157131" duration="1974000" />
-      <workItem from="1727179153088" duration="7819000" />
+      <workItem from="1727179153088" duration="16973000" />
     </task>
     <servers />
   </component>
