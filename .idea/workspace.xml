@@ -72,11 +72,6 @@
           <line>417</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/bartkuipersadmin/Documents/GitHub/cv1-lab-3/cv1-lab-3.ipynb</url>
-          <line>967</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
